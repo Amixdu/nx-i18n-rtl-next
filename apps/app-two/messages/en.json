@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "title": "Hello World",
+    "users-link": "Go to users page",
+    "client-link": "Go to a page with a client component"
+  },
+  "Users": {
+    "title": "Users page",
+    "main-link": "Go back to main page"
+  },
+  "Switch": {
+    "title": "Switch language"
+  },
+  "ClientPage": {
+    "title": "Client title",
+    "data": "Client data"
+  }
+}
